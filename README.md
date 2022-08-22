@@ -1,5 +1,7 @@
 # fastapi-test
-REST API server support "ping" method via FastAPI
+Simple REST API server support "ping" method via FastAPI
+
+You can test firewall settings, etc... via this server
 
 
 ## Build
